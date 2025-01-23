@@ -16,7 +16,7 @@ BlogAppwrite is a full-stack blogging platform built with React and Appwrite, pr
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ASIF-Kh/BlogAppwrite.git
+   git clone https://github.com/ZuhiiMalakShah/Blog-Website-by-zuhi-you-can-create-also-
    cd BlogAppwrite
    ```
 
@@ -51,20 +51,4 @@ BlogAppwrite is a full-stack blogging platform built with React and Appwrite, pr
 
 Contributions are welcome! Please fork the repository and create a pull request with your enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgements
-
-Special thanks to the Appwrite community and all contributors for their support.
-
----
-
-For more information, visit the live application: [blog-appwrite-xi.vercel.app](https://blog-appwrite-xi.vercel.app/)
-
-![Live Demo](demo.png)  
-*Screenshot of the live demo.*
-
----
 
